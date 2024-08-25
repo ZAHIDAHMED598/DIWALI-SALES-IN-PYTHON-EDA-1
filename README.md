@@ -23,3 +23,18 @@ EDA STEPS
 3.DATA ANALYSIS-DESCRIPTIVE STATISTICS,GROUPING AND AGGREGATION,TIME SERIES ANALYSIS.
 
 4.INTEGRATION WITH VISUALISATION LIBRARIES.
+
+TOOLS AND LIBRARIES
+
+1.Python: For data manipulation, cleaning, and analysis.
+
+2.Pandas: For handling and processing the dataset.
+
+3.NumPy: For numerical operations.
+
+4.Matplotlib & Seaborn: For data visualization.
+
+5.Jupyter Notebook: For interactive data analysis.
+
+CONCLUSION
+This README file provides an overview of the project, dataset, objectives, EDA steps, tools and files.
