@@ -37,4 +37,6 @@ TOOLS AND LIBRARIES
 5.Jupyter Notebook: For interactive data analysis.
 
 CONCLUSION
+
 This README file provides an overview of the project, dataset, objectives, EDA steps, tools and files.
+The Diwali Sale Data Analysis project successfully provided actionable insights to improve customer experience and sales. By identifying potential customers and popular products, businesses can tailor their marketing strategies and optimize inventory management to meet demand effectively
